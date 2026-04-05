@@ -9,7 +9,6 @@
   💼 Atualmente trabalho no <strong>Banco Itaú</strong>.<br>
   🎓 Cursando <strong>Engenharia de Software na FIAP</strong> com foco em <strong>Cloud, IA e Desenvolvimento backend</strong>.<br>
   💻 Apaixonado por resolver problemas através do código, com experiência crescente em <strong>Java, Spring, azure</strong> entussiasta em <strong> IA</strong>.<br>
-  🌱 Atualmente aprendendo <strong>Angular</strong>, <strong>AWS</strong> </strong>.<br>
   📫 Contato: <a href="mailto:paulo.golova@gmail.com">paulo.golova@gmail.com</a>
 </p>
 
