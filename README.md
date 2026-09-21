@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Paulo Golovanevsky</h1>
-<h3 align="center">Desenvolvedor Backend | Estudante de Engenharia de Software | Entusiasta de IA e Cibersegurança</h3>
+<h3 align="center">Desenvolvedor de Software | Estudante de Engenharia de Software | Entusiasta de IA</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=paulogolovanevsky&label=Profile%20views&color=0e75b6&style=flat" alt="paulogolovanevsky" />
