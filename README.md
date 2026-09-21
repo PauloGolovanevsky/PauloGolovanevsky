@@ -6,9 +6,8 @@
 </p>
 
 <p >
-  💼 Atualmente trabalho no <strong>Banco Itaú</strong>.<br>
-  🎓 Cursando <strong>Engenharia de Software na FIAP</strong> com foco em <strong>Cloud, IA e Desenvolvimento backend</strong>.<br>
-  💻 Apaixonado por resolver problemas através do código, com experiência crescente em <strong>Java, Spring, azure</strong> entussiasta em <strong> IA</strong>.<br>
+  💼 Atualmente trabalho no <strong>C¨Bank</strong>.<br>
+  🎓 Cursando <strong>Engenharia de Software na FIAP.<br>
   📫 Contato: <a href="mailto:paulo.golova@gmail.com">paulo.golova@gmail.com</a>
 </p>
 
@@ -44,19 +43,5 @@
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
 </p>
-
----
-
-<h3 align="center">📊 Estatísticas do GitHub</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulogolovanevsky&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="paulogolovanevsky" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulogolovanevsky&theme=tokyonight" alt="paulogolovanevsky" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulogolovanevsky&show_icons=true&theme=tokyonight" alt="paulogolovanevsky" />
-</p>
-
 ---
 
