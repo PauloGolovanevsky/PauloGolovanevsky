@@ -6,7 +6,7 @@
 </p>
 
 <p >
-  💼 Atualmente trabalho no <strong>C¨Bank</strong>.<br>
+  💼 Atualmente trabalho no <strong>C6Bank</strong>.<br>
   🎓 Cursando <strong>Engenharia de Software na FIAP.<br>
   📫 Contato: <a href="mailto:paulo.golova@gmail.com">paulo.golova@gmail.com</a>
 </p>
